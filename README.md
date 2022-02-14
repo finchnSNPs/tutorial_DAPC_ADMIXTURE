@@ -33,9 +33,15 @@ snp_seminar_packages.R | list of packages and code to install and load them
 # Literature Cited
 
 Alexander, D. H., J. Novembre, and K. Lange. 2009. Fast model-based estimation of ancestry in unrelated individuals. Genome Research 19: 1655–1664.
+
 Cintron, B. B. 1990. *Cedrela odorata* L. Cedro hembra, Spanish cedar. Silvics of North America 2: 250.
+
 Ferriss, S. 2014. An analysis of trade in five CITES-listed taxa. The Royal Institute of International Affairs, Chatham House, London, England, UK.
+
 Newton, A. C., T. R. Allnutt, A. C. M. Gillies, A. J. Lowe, R. A. Ennos, A. C. Newton, T. R. Allnutt, et al. 1999. Molecular phylogeography, intraspecific variation and the conservation of tree species. Trends in Ecology & Evolution 14: 140–145.
+
 Pennington, T. D., and A. N. Muellner. 2010. A monograph of *Cedrela* (Meliaceae). dh books, Milborne Port, England, UK.
+
 Tajikistan, M. 2019. Proposal for amendment of Appendix I or II for CITES CoP18 Prop. 57. Consideration of proposals for amendment of appendices I and II, 1–26. CITES, Colombo, Sri Lanka.
+
 UNEP-WCMC. 2015. Overview of CITES Appendix III listings. UNEP-WCMC, Cambridge, U. K.
