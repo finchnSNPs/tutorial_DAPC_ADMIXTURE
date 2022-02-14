@@ -1,0 +1,128 @@
+vcf_index,vcf_id,sampleID,country,inst,species,species_full,lat,long,F_MISS,genetic_spp,galapagos
+1,CEAG_18406,18406,Ecuador,USFQ,CEAG,Cedrela angusticarpa,-0.0214,-78.8861,0.0121066,Cedrela angusticarpa,no
+2,CEAG_18407,18407,Ecuador,USFQ,CEAG,Cedrela angusticarpa,-0.0434,-78.9603,0.0797235,Cedrela angusticarpa,no
+3,CEAG_18411,18411,Ecuador,USFQ,CEAG,Cedrela angusticarpa,-0.179,-79.0306,0.012493,Cedrela angusticarpa,no
+4,CEAG_18445,18445,Ecuador,USFQ,CEAG,Cedrela angusticarpa,0.02583,-78.85944,0.00957369,Cedrela angusticarpa,no
+5,CEAN_18375,18375,Ecuador,USFQ,CEAN,Cedrela angustifolia,-2.2631,-78.1923,0.00789937,Cedrela angustifolia,no
+6,CEAN_18387,18387,Ecuador,USFQ,CEAN,Cedrela angustifolia,-0.2022,-78.4306,0.0147684,Cedrela angustifolia,no
+7,CEAN_18439,18439,Ecuador,USFQ,CEAN,Cedrela angustifolia,-4.34917,-79.75389,0.0182888,Cedrela angustifolia,no
+8,CEAN_18451,18451,Ecuador,USFQ,CEAN,Cedrela angustifolia,-0.185,-78.4869,0.0036921,Cedrela angustifolia,no
+9,CEAN_18481,18481,Ecuador,USFQ,CEAN,Cedrela angustifolia,-3.315588,-78.564959,0.00635384,Cedrela angustifolia,no
+10,CEAN_208,CEAN_208,Ecuador,MO,CEAN,Cedrela angustifolia,-3.83027,-79.42027,0.0376937,Cedrela montana,no
+11,CEAN_58,CEAN_58,Peru,MO,CEAN,Cedrela angustifolia,-9.13333,-77.75,0.000515176,Cedrela montana,no
+12,CEAN_64,CEAN_64,Peru,MO,CEAN,Cedrela angustifolia,-5.68138,-79.26694,0.000558108,Cedrela angustifolia,no
+13,CEDO_18329,18329,Ecuador,USFQ,CEDO,Cedrela domatifolia,-0.03889,-77.444996,0,Cedrela domatifolia,no
+14,CEDO_18330,18330,Ecuador,USFQ,CEDO,Cedrela domatifolia,-0.0385,-77.4454,0.00304813,Cedrela domatifolia,no
+15,CEDO_18379,18379,Ecuador,USFQ,CEDO,Cedrela domatifolia,-2.0438,-77.9054,0.00321985,Cedrela domatifolia,no
+16,CEDO_18448,18448,Ecuador,USFQ,CEDO,Cedrela domatifolia,-0.03815,-77.44522,0.0186751,Cedrela domatifolia,no
+17,CEDO_18449,18449,Ecuador,USFQ,CEDO,Cedrela domatifolia,-1.4143465,-77.72346,0.00747006,Cedrela domatifolia,no
+18,CEFA_18332,18332,Ecuador,USFQ,CEFA,Cedrela falcata,0.0738,-77.2396,0.00300519,Cedrela falcata,no
+19,CEFA_18351,18351,Ecuador,USFQ,CEFA,Cedrela falcata,-0.81336,-76.8902,0.0015026,Cedrela falcata,no
+20,CEFA_18352,18352,Ecuador,USFQ,CEFA,Cedrela falcata,-0.83699,-76.8978,0.00124501,Cedrela falcata,no
+21,CEFA_18358,18358,Ecuador,USFQ,CEFA,Cedrela falcata,-0.70678,-77.0801,0.000386382,Cedrela falcata,no
+22,CEFI_112,CEFI_112,Ecuador,MO,CEFI,Cedrela fissilis,-0.03333,-76.7,0.00274761,Cedrela odorata sl,no
+23,CEFI_35,CEFI_35,Peru,MO,CEFI,Cedrela fissilis,-4.15,-80.61666,0.00227536,Cedrela fissilis,no
+24,CEFI_61,CEFI_61,Peru,MO,CEFI,Cedrela fissilis,-2.91667,-76.25,8.59E-05,Cedrela odorata sl,no
+25,CEKU_18288,18288,Ecuador,USFQ,CEKU,Cedrela kuelapensis,-4.359,-79.8294,0.00128794,Cedrela kuelapensis,no
+26,CEMA_18480,18480,Ecuador,USFQ,CEMA,Cedrela magnifolia,-3.31529,-78.5651,0.000257588,Cedrela magnifolia,no
+27,CEMI_18423,18423,Ecuador,USFQ,CEMI,Cedrela minima,0.21922,-79.88104,0.00180312,Cedrela minima,no
+28,CEMI_18424,18424,Ecuador,USFQ,CEMI,Cedrela minima,0.24578,-79.86882,0.00120208,Cedrela minima,no
+29,CEMI_18426,18426,Ecuador,USFQ,CEMI,Cedrela minima,0.64255,-79.96195,0.00111622,Cedrela minima,no
+30,CEMI_18429,18429,Ecuador,USFQ,CEMI,Cedrela minima,0.38845,-79.64418,0.00201777,Cedrela minima,no
+31,CEMI_18453,18453,Ecuador,USFQ,CEMI,Cedrela minima,0.23878,-78.81811,0.0219379,Cedrela minima,no
+32,CEMO_108,CEMO_108,Ecuador,MO,CEMO,Cedrela montana,-0.21666,-78.8,0.00180312,Cedrela montana,no
+33,CEMO_109,CEMO_109,Ecuador,MO,CEMO,Cedrela montana,-0.45,-77.91667,0.000128794,Cedrela montana,no
+34,CEMO_133,CEMO_133,Ecuador,MO,CEMO,Cedrela montana,0.08333,-78.5,0.00163139,Cedrela montana,no
+35,CEMO_18317,18317,Ecuador,USFQ,CEMO,Cedrela montana,-0.3996,-78.0477,0.00197484,Cedrela montana,no
+36,CEMO_18319,18319,Ecuador,USFQ,CEMO,Cedrela montana,-0.4516,-77.9432,0.0100889,Cedrela montana,no
+37,CEMO_18324,18324,Ecuador,USFQ,CEMO,Cedrela montana,-0.46705,-77.9143,0.0736273,Cedrela montana,no
+38,CEMO_18383,18383,Ecuador,USFQ,CEMO,Cedrela montana,-1.2272,-78.6209,0.00523763,Cedrela montana,no
+39,CEMO_215,CEMO_215,Ecuador,MO,CEMO,Cedrela montana,0.21666,-78.25,0.00064397,Cedrela montana,no
+40,CEMO_225,CEMO_225,Ecuador,MO,CEMO,Cedrela montana,-0.25,-78.5,0.0015026,Cedrela montana,no
+41,CEMO_232,CEMO_232,Ecuador,MO,CEMO,Cedrela montana,-0.33333,-78.5,0.0892114,Cedrela montana,no
+42,CEMO_239,CEMO_239,Ecuador,MO,CEMO,Cedrela montana,-3.60916,-79.69666,0.00270468,Cedrela montana,no
+43,CEMO_248,CEMO_248,Ecuador,MO,CEMO,Cedrela montana,-0.23138,-78.80277,0.00133087,Cedrela montana,no
+44,CEMO_27,CEMO_27,Ecuador,MO,CEMO,Cedrela montana,-4.385,-79.12555,0.000128794,Cedrela montana,no
+45,CEMO_304,CEMO_304,Colombia,MO,CEMO,Cedrela montana,4.31667,-74.3,0.00120208,Cedrela montana,no
+46,CEMO_50,CEMO_50,Colombia,MO,CEMO,Cedrela montana,4.01805,-75.88027,0.000214657,Cedrela montana,no
+47,CEMO_55,CEMO_55,Ecuador,MO,CEMO,Cedrela montana,0.33333,-78.43333,0.000257588,Cedrela montana,no
+48,CEMO_62,CEMO_62,Ecuador,MO,CEMO,Cedrela montana,-1.5,-78.45,0.0570128,Cedrela montana,no
+49,CEMO_68,CEMO_68,Ecuador,MO,CEMO,Cedrela montana,-0.38333,-78.01667,0.000558108,Cedrela montana,no
+50,CEMO_77,CEMO_77,Ecuador,MO,CEMO,Cedrela montana,-0.6,-78.45,0.000987421,Cedrela montana,no
+51,CENE_129,CENE_129,Ecuador,MO,CENE,Cedrela nebulosa,-0.66666,-77.66666,0.000214657,Cedrela nebulosa,no
+52,CENE_18296,18296,Ecuador,USFQ,CENE,Cedrela nebulosa,-0.67108,-77.79249,0.000171725,Cedrela nebulosa,no
+53,CENE_18326,18326,Ecuador,USFQ,CENE,Cedrela nebulosa,-0.4501,-77.8754,0,Cedrela nebulosa,no
+54,CENE_18334,18334,Ecuador,USFQ,CENE,Cedrela nebulosa,0.3132,-77.464,8.59E-05,Cedrela nebulosa,no
+55,CENE_18343,18343,Ecuador,USFQ,CENE,Cedrela nebulosa,-0.72889,-77.4956,0,Cedrela nebulosa,no
+56,CENE_18366,18366,Ecuador,USFQ,CENE,Cedrela nebulosa,-1.3665,-77.9527,0.00141673,Cedrela nebulosa,no
+57,CENE_18372,18372,Ecuador,USFQ,CENE,Cedrela nebulosa,-1.7521,-77.8455,0.00064397,Cedrela nebulosa,no
+58,CENE_18474,18474,Ecuador,USFQ,CENE,Cedrela nebulosa,-4.39802,-78.93543,0.00120208,Cedrela nebulosa,no
+59,CENE_18476,18476,Ecuador,USFQ,CENE,Cedrela nebulosa,-3.81378,-78.76078,0.000515176,Cedrela nebulosa,no
+60,CENE_18479,18479,Ecuador,USFQ,CENE,Cedrela nebulosa,-3.33533,-78.56057,0.00244709,Cedrela nebulosa,no
+61,CENE_199,CENE_199,Ecuador,MO,CENE,Cedrela nebulosa,-0.36666,-78.86666,0.000171725,Cedrela nebulosa,no
+62,CENE_209,CENE_209,Ecuador,MO,CENE,Cedrela nebulosa,-0.3,-77.78333,0.000729833,Cedrela nebulosa,no
+63,CENE_218,CENE_218,Peru,MO,CENE,Cedrela nebulosa,-5.01666,-78.9,0,Cedrela nebulosa,no
+64,CENE_280,CENE_280,Ecuador,MO,CENE,Cedrela nebulosa,-4.18333,-78.91666,0,Cedrela nebulosa,no
+65,CENE_306,CENE_306,Ecuador,MO,CENE,Cedrela nebulosa,-4.71694,-78.96305,8.59E-05,Cedrela nebulosa,no
+66,CENE_39,CENE_39,Ecuador,MO,CENE,Cedrela nebulosa,-0.63333,-77.85,4.29E-05,Cedrela nebulosa,no
+67,CENE_43,CENE_43,Ecuador,MO,CENE,Cedrela nebulosa,-2.98333,-78.38333,0.0413429,Cedrela nebulosa,no
+68,CENE_8,CENE_8,Ecuador,MO,CENE,Cedrela nebulosa,-1.96666,-77.81666,0.000472245,Cedrela nebulosa,no
+69,CEOD_107,CEOD_107,Ecuador,MO,CEOD,Cedrela odorata,-0.43333,-76.51667,0.0148113,Cedrela odorata sl,no
+70,CEOD_118,CEOD_118,Peru,MO,CEOD,Cedrela odorata,-3.83333,-73.33333,0,Cedrela odorata sl,no
+71,CEOD_126,CEOD_126,Peru,MO,CEOD,Cedrela odorata,-4.16666,-73.5,0.000214657,Cedrela odorata sl,no
+72,CEOD_128,CEOD_128,Colombia,MO,CEOD,Cedrela odorata,4.88333,-75.83333,0,Cedrela odorata sl,no
+73,CEOD_142,CEOD_142,Peru,MO,CEOD,Cedrela odorata,-3.83333,-73.33333,0,Cedrela odorata sl,no
+74,CEOD_146,CEOD_146,Peru,MO,CEOD,Cedrela odorata,-3.75,-73.25,4.29E-05,Cedrela odorata sl,no
+76,CEOD_15,CEOD_15,Peru,MO,CEOD,Cedrela odorata,-3.74805,-73.24722,0.0145108,Cedrela odorata sl,no
+75,CEOD_157,CEOD_157,Peru,MO,CEOD,Cedrela odorata,-3.91666,-73.58333,0.00321985,Cedrela odorata sl,no
+77,CEOD_164,CEOD_164,Ecuador,MO,CEOD,Cedrela odorata,-0.92111,-75.36639,0,Cedrela odorata sl,no
+78,CEOD_165,CEOD_165,Peru,MO,CEOD,Cedrela odorata,-3.8,-73.41666,0.000901558,Cedrela odorata sl,no
+79,CEOD_168,CEOD_168,Ecuador,MO,CEOD,Cedrela odorata,-1.96667,-77.81667,0.000300519,Cedrela odorata sl,no
+80,CEOD_172,CEOD_172,Peru,MO,CEOD,Cedrela odorata,-5.16,-78.28889,0.0299661,Cedrela odorata sl,no
+81,CEOD_173,CEOD_173,Ecuador,MO,CEOD,Cedrela odorata,-1.48333,-77.45,4.29E-05,Cedrela odorata sl,no
+85,CEOD_18,CEOD_18,Ecuador,MO,CEOD,Cedrela odorata,-0.01666,-77.5,0.000300519,Cedrela odorata sl,no
+82,CEOD_18359,18359,Ecuador,USFQ,CEOD,Cedrela odorata,-0.89229,-77.1819,0.00433607,Cedrela odorata sl,no
+83,CEOD_18377,18377,Ecuador,USFQ,CEOD,Cedrela odorata,-2.02,-77.9472,0,Cedrela odorata sl,no
+84,CEOD_189,CEOD_189,Peru,MO,CEOD,Cedrela odorata,-3.66666,-72.91666,0.000858627,Cedrela odorata sl,no
+98,CEOD_2,CEOD_2,Ecuador,MO,CEOD,Cedrela odorata,-0.36667,-76.55,0,Cedrela odorata sl,no
+86,CEOD_241,CEOD_241,Ecuador,MO,CEOD,Cedrela odorata,-3.41666,-78.58333,0.000128794,Cedrela odorata sl,no
+87,CEOD_242,CEOD_242,Colombia,MO,CEOD,Cedrela odorata,3.63333,-76.71667,0,Cedrela odorata sl,no
+88,CEOD_25,CEOD_25,Ecuador,MO,CEOD,Cedrela odorata,-1.06666,-77.6,0.000515176,Cedrela odorata sl,no
+91,CEOD_26,CEOD_26,Ecuador,MO,CEOD,Cedrela odorata,-0.01667,-77.5,0.000128794,Cedrela odorata sl,no
+89,CEOD_260,CEOD_260,Ecuador,MO,CEOD,Cedrela odorata,-2.33333,-76.33333,0,Cedrela odorata sl,no
+90,CEOD_261,CEOD_261,Ecuador,MO,CEOD,Cedrela odorata,-1.56666,-77.41666,0.00103035,Cedrela odorata sl,no
+92,CEOD_271,CEOD_271,Ecuador,MO,CEOD,Cedrela odorata,-0.21666,-78.8,0.000300519,Cedrela montana,no
+93,CEOD_282,CEOD_282,Peru,MO,CEOD,Cedrela odorata,-5.75,-77.66666,0.000472245,Cedrela nebulosa,no
+94,CEOD_285,CEOD_285,Ecuador,MO,CEOD,Cedrela odorata,-1.5,-77.95,0.00777057,Cedrela odorata sl,no
+95,CEOD_291,CEOD_291,Ecuador,MO,CEOD,Cedrela odorata,-2,-79.96666,0,Cedrela odorata ss,no
+96,CEOD_295,CEOD_295,Ecuador,MO,CEOD,Cedrela odorata,-0.5,-76.83333,8.59E-05,Cedrela odorata sl,no
+97,CEOD_296,CEOD_296,Colombia,MO,CEOD,Cedrela odorata,6.91666,-75.06666,0,Cedrela odorata sl,no
+99,CEOD_301,CEOD_301,Peru,MO,CEOD,Cedrela odorata,-4.91666,-78.31666,0.00197484,Cedrela odorata sl,no
+100,CEOD_332,CEOD_302,Ecuador,MO,CEOD,Cedrela odorata,-0.41666,-76.61666,0.00553814,Cedrela odorata sl,no
+101,CEOD_38,CEOD_38,Peru,MO,CEOD,Cedrela odorata,-5.01,-78.34,0.000686902,Cedrela odorata sl,no
+104,CEOD_4,CEOD_4,Peru,MO,CEOD,Cedrela odorata,-3.85444,-73.41388,0.00107328,Cedrela odorata sl,no
+102,CEOD_47,CEOD_47,Ecuador,MO,CEOD,Cedrela odorata,-1.96666,-77.81666,8.59E-05,Cedrela odorata sl,no
+103,CEOD_49,CEOD_49,Ecuador,MO,CEOD,Cedrela odorata,-1.5,-78.5,0,Cedrela odorata sl,no
+105,CEOD_51,CEOD_51,Ecuador,MO,CEOD,Cedrela odorata,-0.65,-76.43333,0,Cedrela odorata sl,no
+107,CEOD_6,CEOD_6,Ecuador,MO,CEOD,Cedrela odorata,-0.71666,-77.66666,0.000901558,Cedrela montana,no
+106,CEOD_66,CEOD_66,Ecuador,MO,CEOD,Cedrela odorata,-1.06666,-77.61666,0.000729833,Cedrela odorata sl,no
+108,CEOD_73,CEOD_73,Ecuador,MO,CEOD,Cedrela odorata,-0.71666,-77.65,0.00064397,Cedrela nebulosa,no
+109,CEOD_93,CEOD_93,Peru,MO,CEOD,Cedrela odorata,-2.5,-75.83333,4.29E-05,Cedrela odorata sl,no
+110,CEOD_95,CEOD_95,Peru,MO,CEOD,Cedrela odorata,-3.33333,-71.81666,4.29E-05,Cedrela odorata sl,no
+111,CEPE_18422,18422,Ecuador,USFQ,CEPE,Cedrela  petiolulata,0.03584,-79.95113,0,Cedrela  petiolulata,no
+112,CEPE_18425,18425,Ecuador,USFQ,CEPE,Cedrela  petiolulata,0.62291,-79.90772,0.00141673,Cedrela  petiolulata,no
+113,CEPU_18398,18398,Ecuador,USFQ,CEPU,Cedrela pubescens,0.1562,-78.8188,0.00459365,Cedrela pubescens,no
+114,CEPU_18418,18418,Ecuador,USFQ,CEPU,Cedrela pubescens,-0.23104,-78.75646,0.00403555,Cedrela pubescens,no
+115,CEPU_18420,18420,Ecuador,USFQ,CEPU,Cedrela pubescens,-0.92958,-79.05002,0.00249002,Cedrela pubescens,no
+116,CEPU_18444,18444,Ecuador,USFQ,CEPU,Cedrela pubescens,0.03444,-78.72139,0.00970249,Cedrela pubescens,no
+117,CEPU_18458,18458,Ecuador,USFQ,CEPU,Cedrela pubescens,0.32385,-78.75555,0.00674022,Cedrela pubescens,no
+118,CESA_18469,18469,Ecuador,USFQ,CESA,Cedrela saltensis,-3.86793,-79.10236,4.29E-05,Cedrela saltensis,no
+119,CESA_18470,18470,Ecuador,USFQ,CESA,Cedrela saltensis,-3.8742938,-79.0954004,0,Cedrela saltensis,no
+120,CESA_18472,18472,Ecuador,USFQ,CESA,Cedrela saltensis,-3.89073,-79.09817,0.000858627,Cedrela saltensis,no
+121,CLOSF1_1,CLOSF1-01,Peru,PERU,UNKN,Cedrela spp,-4.11916667,-72.18444444,0.000343451,Cedrela spp,no
+122,CLOSF3_1,CLOSF3-01,Peru,PERU,UNKN,Cedrela spp,-4.25534,-71.76125,0.0881381,Cedrela spp,no
+123,CO26_STX,CO26.STX,Ecuador,USFQ,CEOD,Cedrela odorata,-0.61532,-90.36913,0.0136522,galapagos odorata,yes
+124,CO7_SCR,CO7.SCR,Ecuador,USFQ,CEOD,Cedrela odorata,-0.877033,-89.43773,0.00905852,galapagos odorata,yes
+125,COFL20_S220,COFL20,Ecuador,USFQ,CEOD,Cedrela odorata,-1.31542,-90.44492,0.0111192,galapagos odorata,yes
+126,COISA10_S234,COISA10,Ecuador,USFQ,CEOD,Cedrela odorata,-0.8124,-91.05247,0.00184605,galapagos odorata,yes
+127,COT8_S215,COT8,Ecuador,USFQ,CEOD,Cedrela odorata,-0.63475,-76.15532,0.000515176,galapagos odorata,no
