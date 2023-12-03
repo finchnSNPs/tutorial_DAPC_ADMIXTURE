@@ -26,7 +26,7 @@ File | Description
 country_labels_2020.csv | country labels for maps
 map_files | directory containing shapefiles from http://thematicmapping.org/
 snp_seminar.R | the R script of this tutorial
-snp_seminar.html |the R markdown of this tutorial rendered as an HTML
+snp_seminar.html |the R markdown of this tutorial rendered as an HTML - download to view
 snp_seminar_admixture |directory containing ADMIXTURE Outputs
 snp_seminar_packages.R | list of packages and code to install and load them
 
