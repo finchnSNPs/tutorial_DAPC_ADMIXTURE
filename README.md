@@ -1,8 +1,11 @@
-This tutorial was developed for the SNP Rotation Seminar given by Adam Leaché, University of Washington, Winter 2022. 
+## View the full tutorial here: 
+https://finchnsnps.github.io/tutorial_DAPC_ADMIXTURE/snp_seminar.html
 
-The purpose is to demonstrate DAPC and ADMIXTURE visualizations in R. 
+## Purpose
 
-# Background
+This tutorial was developed for the SNP Rotation Seminar given by Adam Leaché, University of Washington, Winter 2022. The purpose is to demonstrate DAPC and ADMIXTURE visualizations in R. 
+
+## Background
 
 The neotropical tree species *Cedrela odorata* is a target of illegal logging and has been documented in regional timber trade for over 250 years (Pennington and Muellner, 2010). Of these species, *Cedrela odorata* (Spanish cedar; cedro), is the second most traded neotropical tree species, following bigleaf mahogany (*Swietenia macrophylla*). In 2001, *C. odorata* was listed under the protections of CITES Appendix III requiring validated documentation of species identity and source for both export and import documentation, protecting populations in Bolivia, Brazil, Colombia, Guatemala, and Peru (Ferriss, 2014). Consequently, two other species (*C. fissilis* Vell. and *C. lilloi syn. angustifolia*) have also been afforded protection under CITES Appendix III, since their survival is threatened due to strong similarities with *C. odorata* and its trade-demand (Ferriss, 2014; UNEP-WCMC, 2015). Despite the anticipated increase in protection for *C. odorata* and its “look-alikes”, law enforcement of CITES regulations and the continuance of CITES protections requires credible estimates of species presence in trade, accurate geographic distributions, and up-to-date extinction risk (Text of the Convention; Contracting States, 1973). However, differentiating *Cedrela* species is challenging, and differentiating species based on wood tissue alone is nearly impossible, even for experts. The data presented here are part of a larger project to provide genomic resources for *Cedrela*, including a SNP genotyping assay for species and origin identification.
 
@@ -17,7 +20,7 @@ The full specimen alignment contained 282 specimens and nearly 1 million SNPs. V
 
 The vcf provided here contains 127 individuals and 725 SNPs. 
 
-# Files included
+## Files included
 
 File | Description
 -----|------------
@@ -30,7 +33,7 @@ snp_seminar.html |the R markdown of this tutorial rendered as an HTML - download
 snp_seminar_admixture |directory containing ADMIXTURE Outputs
 snp_seminar_packages.R | list of packages and code to install and load them
 
-# Literature Cited
+## Literature Cited
 
 Alexander, D. H., J. Novembre, and K. Lange. 2009. Fast model-based estimation of ancestry in unrelated individuals. Genome Research 19: 1655–1664.
 
